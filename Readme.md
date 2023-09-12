@@ -1,4 +1,4 @@
-## dockefile 
+## dockerfile 
 
 FROM node:10 --node js indirdik<br/>
 WORKDIR /home/node/app --projemizin çalışacağı dizini belirledik<br/>
